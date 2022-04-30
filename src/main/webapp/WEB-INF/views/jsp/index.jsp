@@ -40,8 +40,8 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To cloudcandy.</h2>
-			<h3>Contact @ +91-9597361516 </h3>
+			<h2>Welcome to My Real Time AWS DevOps Project 1</h2>
+			<h3>Git, Jenkins & Docker Project - CI/CD Pipelines by Bebin</h3>
 		</div>	
 	</div>
 
